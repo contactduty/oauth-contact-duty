@@ -1,0 +1,16 @@
+{
+    "name": "contactduty/oauth-contact-duty",
+    "description": "ContactDuty OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "license": "MIT",
+    "homepage": "https://contactduty.com/",
+    "authors": [{
+	    "name": "Gavrila Florin",
+        "email": "gavrilacflorin@yahoo.com",
+		"role": "Developer"
+	}],
+    "minimum-stability": "stable",
+    "require": {
+       "php": ">=5.6.0",
+		    "league/oauth2-client": "~2.3"
+    }
+}
