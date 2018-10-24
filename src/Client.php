@@ -12,7 +12,7 @@ class Client extends AbstractProvider {
     /**
      * @var string This will be prepended to the base uri.
      */
-    protected $apiEndpoint = 'https://contactduty.com/api/v1/';
+    protected $apiEndpoint = 'https://contactduty.com/api/v2/';
 
     /**
      * @var string This will be prepended to the base uri.
