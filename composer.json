@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ContactDuty\\Oauth2\\": "src"
+            "ContactDuty\\OAuth2\\": "src"
         }
     }
 }
